@@ -1,7 +1,11 @@
-## Hi there 👋
-# test
-### test
-test
+## hiii :3
+
+im InternalDev\
+![plz :3](https://github.com/images/mona-whisper.gif)
+### Subscribe on my
+<a href="https://www.youtube.com/@InternalDev-YT">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+</a>
 
 <!--
 **InternalDev-YT/InternalDev-YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
